@@ -1,4 +1,4 @@
-function mostAppearItem(items: string[]): any {
+function mostAppearItem(items: string[]): { [key: string]: number } {
   // your code here
 }
 

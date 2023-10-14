@@ -8,3 +8,5 @@ function jajanSeblak(uang: number): void {
 
 jajanBoba(20000, jajanSeblak);
 jajanBoba(10000, jajanSeblak);
+
+export { jajanBoba, jajanSeblak };
