@@ -9,7 +9,7 @@ console.log(fiboTopDown(3)); // 2
 console.log(fiboTopDown(5)); // 5
 console.log(fiboTopDown(6)); // 8
 console.log(fiboTopDown(7)); // 13
-console.log(fiboTopDown(9)); // 13
+console.log(fiboTopDown(9)); // 34
 console.log(fiboTopDown(10)); // 55
 
 export default fiboTopDown;
